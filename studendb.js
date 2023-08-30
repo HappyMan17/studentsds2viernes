@@ -1,7 +1,4 @@
 const datastudent = {
-"20173332": {"nombre": "Alexander", "semestre": 4, "soltero":true , "gustos" : ['leer', 'jugar video juegos', 'viajar']}, 
-"20180605": {"nombre": "Fredy" , "semestre": 6 , "soltero":false , "gustos" : ['comer', 'bailar','viajar']},
-"1941449-2711":{"nombre": "Daniel Fernando", "semestre": 6, "soltero":true, "gustos": ['trabajar', 'aprender', 'comer', 'descansar', 'jugar']},
 "20180605": {"nombre" : "Fredy" , "semestre": 6 , "soltero":false , "gustos" : ['comer', 'bailar','viajar']},
 "1940805-3743":"",
 "2043246-3743":{"nombre" : "José" , "semestre": 6 , "soltero":true , "gustos" : ['videojuegos', 'series','comer']},
@@ -43,10 +40,6 @@ const datastudent = {
 "2042577-3743":{"nombre": "William Velasco", "semestre": 6, "soltero":false, "gustos": ['cocinar', 'caminar', 'montanismo', 'entrenar']},
 "2040751-3743":{"nombre" : "Juan Jose" , "semestre": 6 , "soltero":true , "gustos" : ['comer', 'bailar','viajar', 'ver peliculas','leer']},
 "1924546-3743":{"nombre": "Christian", "semestre": 6, "soltero": true, "gustos": ['comer', 'deporte', 'jugar']},
-"1843859-3743":{"nombre" : "Santiago" , "semestre": 6 , "soltero":false , "gustos" : ['videojuegos', 'series','comer']},
-"1827644-2711":{"nombre": "Leonardo", "semestre": 6, "soltero":true , "gustos" : ['Aprender', 'Descansar', 'Comer', 'Jugar']}
-"20173332":{"nombre": "Alexander", "semestre": 4, "soltero":true , "gustos" : ['leer', 'jugar video juegos', 'viajar']},
-"202124024":{"nombre" : "Sebastian" , "semestre": 6 , "soltero":false , "gustos" : ['comer', 'nadar', 'jugar', 'viajar']},  
 }
 
 module.exports = datastudent
