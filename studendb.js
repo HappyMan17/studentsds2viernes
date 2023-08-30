@@ -40,6 +40,9 @@ const datastudent = {
 "2042577-3743":{"nombre": "William Velasco", "semestre": 6, "soltero":false, "gustos": ['cocinar', 'caminar', 'montanismo', 'entrenar']},
 "2040751-3743":{"nombre" : "Juan Jose" , "semestre": 6 , "soltero":true , "gustos" : ['comer', 'bailar','viajar', 'ver peliculas','leer']},
 "1924546-3743":{"nombre": "Christian", "semestre": 6, "soltero": true, "gustos": ['comer', 'deporte', 'jugar']},
+"201942104": {"nombre" : "juan sebastian", "semestre": 6, "soltero":true, "gustos" :['comer', 'jugar video juegos', 'ejercitarme']},
+"1941449-2711":{"nombre": "Daniel Fernando", "semestre": 6, "soltero":true, "gustos": ['trabajar', 'aprender', 'comer', 'descansar', 'jugar']},  
+  
 }
 
 module.exports = datastudent
